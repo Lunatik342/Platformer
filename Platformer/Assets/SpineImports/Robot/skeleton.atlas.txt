@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 606,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 124, 51
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: true
+  xy: 574, 74
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+foot_2
+  rotate: false
+  xy: 547, 21
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+foot_foot
+  rotate: true
+  xy: 236, 6
+  size: 57, 74
+  orig: 57, 74
+  offset: 0, 0
+  index: -1
+foot_leg
+  rotate: true
+  xy: 2, 5
+  size: 33, 68
+  orig: 33, 68
+  offset: 0, 0
+  index: -1
+foot_middle
+  rotate: false
+  xy: 72, 6
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+hand_alt
+  rotate: true
+  xy: 420, 2
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+hand_arm
+  rotate: false
+  xy: 574, 117
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+hand_forearm
+  rotate: true
+  xy: 124, 2
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+hand_left_shoulder
+  rotate: true
+  xy: 312, 8
+  size: 55, 96
+  orig: 55, 96
+  offset: 0, 0
+  index: -1
+hand_right_shoulder
+  rotate: false
+  xy: 506, 48
+  size: 66, 104
+  orig: 66, 104
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 420, 69
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+sheeld
+  rotate: false
+  xy: 2, 40
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+sheeld_partbot
+  rotate: true
+  xy: 489, 4
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+sheeld_parttop
+  rotate: false
+  xy: 190, 9
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+shield1
+  rotate: false
+  xy: 236, 65
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+shield2
+  rotate: false
+  xy: 328, 65
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 574, 52
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+swoosh
+  rotate: true
+  xy: 489, 49
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
